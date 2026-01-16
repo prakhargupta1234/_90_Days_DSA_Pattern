@@ -28,5 +28,5 @@ public boolean isHappy(int n) {
             }
             set.add(sum);
         }
-    }
+    }	
 }
