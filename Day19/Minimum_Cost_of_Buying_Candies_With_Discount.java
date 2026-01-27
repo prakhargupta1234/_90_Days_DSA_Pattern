@@ -22,5 +22,5 @@ public class Minimum_Cost_of_Buying_Candies_With_Discount {
 	        }
 	        return total;
 
-	    }
+	    }	
 }
